@@ -1,7 +1,6 @@
 # material-theme-atom
 material theme atom setting
 
-<code>
 {<br>
 	"always_show_minimap_viewport": true,<br>
 	"bold_folder_labels": true,<br>
@@ -41,4 +40,4 @@ material theme atom setting
 	"line_padding_top": 2,<br>
 	"line_padding_bottom": 2,<br>
 }<br>
-</code>
+
